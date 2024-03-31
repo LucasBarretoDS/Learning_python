@@ -6,9 +6,9 @@ Me chamo Lucas Barreto, tenho 27 anos e sou de Fortaleza, Ceará.
 
 ## Minha experiência:
 
-🌐 Tenho experiência em trabalhar com Python, SQL, C++ e suas bibliotecas para Ciência de Dados e Machine Learning<br>
-🎲 Trabalhei como freelancer analista de dados para escolas de reforço no Brasil <br>
-📚 Estou estudando Ciência da Computação na UFLA (Universidade Federal de Lavras) <br>
+🌐 Tenho experiência em trabalhar com Python, SQL, C++ e suas bibliotecas para Ciência de Dados e Machine Learning <br>
+🎲 Trabalho como bancário, porém estou migrando para a área de ciência ded dados. <br>
+📚 Estou estudando Ciência de Dados pela FCCD (Formação Completa em Ciência de Dados) <br>
 📧 Quer entrar em contato comigo? Envie um e-mail para anwarhermuche2@gmail.com <br>
 <br>
 
@@ -38,33 +38,32 @@ Git & Version Control
 
 ### Soft Skills:
 
+Vendas
 Comunicativo
 Trabalho em equipe
 Proatividade
-Senso de liderança
+Persuasão
 Aprendo muito rápido
 Autodidata
+Dedicado
 <br>
 
 <br>
+## Formação:
 
-## Projetos em que atuei:
-
-Desenvolvimento de chatbots e assistentes virtuais utilizando LLMs, com integração à API da OpenAI e utilização de outras ferramentas disponíveis, como os modelos da Hugging Face e o framework LangChain
-Segmentação de clientes utilizando o algoritmo K-Means em uma análise RFV para realizar campanhas direcionadas aos clientes mais rentáveis da empresa
-Construção de relatórios automatizados para cursinhos brasileiros utilizando os microdados do ENEM, enfatizando a análise das questões, como aquelas com maior índice de erros, as mais difíceis, distribuição dos assuntos, entre outros
-Construção de um aplicativo web utilizando Streamlit e a API do ChatGPT para realizar análise de sentimentos das avaliações do aplicativo da empresa.
-<br>
+Administração by Centro Universitário Estácio do Ceará (Concluded)
+Data Science and Data Analytics by Data Tech Florida (In Progress)
+Data Science by FCCD - Formação Completa em Ciência de Dados (In Progress)
 
 <br>
+
+<br>
+## Idiomas:
 
 Quanto aos idiomas, sou fluente em português, possuo inglês avançado e espanhol básico.
 
 ## Produção de Conteúdo:
 
-No YouTube, tenho um curso ensinando a linguagem Python do zero e, futuramente, terá tutoriais sobre ciência de dados, Machine Learning e as novas ferramentas de LLMs
-No LinkedIn, publico vários materiais gratuitos (como a transcrição em português de um curso gratuito oferecido pela DeepLearning.AI) para ajudar iniciantes e avançados na área
-No Medium, publico artigos sobre diversos assuntos (Gradiente Descendente, Classificação Hierárquica, Feature Selection, entre outros)
 
 
 
